@@ -55,7 +55,9 @@ Functional Simulation
     ↓
 Logic Synthesis
     ↓
-Formal Equivalence Checking (LEC) & Functional Verifycation of Netlist
+Formal Equivalence Checking (LEC)
+    ↓
+Functional Verification of Netlist
     ↓
 Static Timing Analysis (STA)
     ↓
