@@ -1,0 +1,28 @@
+# Simulation / waveform artifacts
+*.log
+*.vcd
+*.shm
+*.history
+*.key
+*.trn
+*.dsn
+
+# Simulator generated directories
+xcelium.d/
+*.d/
+
+# EDA generated databases
+*.db
+*.ddc
+*.syn
+*.mr
+*.svf
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# OS/editor files
+.DS_Store
+.vscode/
